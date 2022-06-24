@@ -1,0 +1,5 @@
+from tests.recommendation_engine.view_recommendation.common.division import DivisionOwnerRecommendationsClass
+
+
+class TestKaplanDivisionOwnerRecommendationsClass(DivisionOwnerRecommendationsClass):
+    pass

@@ -1,0 +1,5 @@
+from tests.recommendation_engine.edit_recommendation.common.advisor import AdvisorOwnerEditRecommendationsClass
+
+
+class TestIscAdvisorOwnerEditRecommendationsClass(AdvisorOwnerEditRecommendationsClass):
+    pass

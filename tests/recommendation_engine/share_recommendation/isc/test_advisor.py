@@ -1,0 +1,5 @@
+from tests.recommendation_engine.share_recommendation.common.advisor import AdvisorOwnerShareRecommendationsClass
+
+
+class TestIscAdvisorOwnerShareRecommendationsClass(AdvisorOwnerShareRecommendationsClass):
+    pass
